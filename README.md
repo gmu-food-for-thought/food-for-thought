@@ -1,5 +1,5 @@
 # food-for-thought
-Final Project for AIT-582
+Final Project for AIT-582 Applications of Metadata in Complex Big Data Problems
 
 Purpose of this project is to develop a method to provide recipe recommendations under certain budgetary constraints.
 
